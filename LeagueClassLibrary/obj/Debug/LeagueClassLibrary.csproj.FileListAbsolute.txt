@@ -1,0 +1,6 @@
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.dll
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\bin\Debug\LeagueClassLibrary.pdb
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.AssemblyReference.cache
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.dll
+C:\Users\emre_\Desktop\League Simulator\LeagueClassLibrary\obj\Debug\LeagueClassLibrary.pdb
